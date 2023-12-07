@@ -1,2 +1,2 @@
-# LaTEX Files
-Store all written deliverables (e.g. project proposal, report drafts, etc.) here.
+# Report
+Final report PDF and presentation slides are stored here.
